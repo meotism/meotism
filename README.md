@@ -1,7 +1,7 @@
 - Hi there 👋, I’m @meotism
 - 👀 I’m interested in Design OOP
 - 🌱 I’m currently learning Design OOP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My blog is https://dev.to/meotism
 - 📫 How to reach me --> contact me: tranngoctuan391@gmail.com
 
 <!---
