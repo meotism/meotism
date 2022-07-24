@@ -15,16 +15,23 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meotism&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meotism&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+<h3> 📈 &nbsp; Activity Graph</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meotism)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img alt="graph" src="https://activity-graph.herokuapp.com/graph?username=meotism&theme=rogue"/>
+</div>
 
+<h3> 💳 &nbsp; Profile Summary</h3>
 
-<img src="https://komarev.com/ghpvc/?username=meotism&style=flat-square&color=blue" alt=""/>
+<div align="center" >
+<img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meotism&theme=tokyonight"/>
+</div>
 
+<h3> 📟 &nbsp; Stats </h3>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<div align="center">
+<img alt="repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meotism&theme=tokyonight"/>
+<img alt="commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meotism&theme=tokyonight"/>
+<img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meotism&theme=tokyonight"/>
+<img alt="commits" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meotism&theme=tokyonight&utcOffset=8"/>
 </div>
