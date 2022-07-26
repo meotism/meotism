@@ -28,7 +28,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h3> 📟 &nbsp; Stats </h3>
-
 <div align="center">
 <img alt="repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meotism&theme=tokyonight"/>
 <img alt="commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meotism&theme=tokyonight"/>
