@@ -1,6 +1,6 @@
 - Hi there 👋, I’m @meotism
-- 👀 I’m interested in Design OOP
-- 🌱 I’m currently learning Design OOP
+- 👀 I’m interested in new technology
+- 🌱 I am pursuing to become Senior Sofware Engineer
 - 💞️ My blog is https://dev.to/meotism
 - 📫 How to reach me --> contact me: tranngoctuan391@gmail.com
 
